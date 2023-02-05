@@ -22,6 +22,7 @@ Sou Bacharel, graduado em Sistemas de Informação. Atualmente atuo como desenvo
 
 ![Luiz Gambalonga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGambalonga&show_icons=true&theme=dracula&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGambalonga&show_icons=true&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Formas de Contato
 
