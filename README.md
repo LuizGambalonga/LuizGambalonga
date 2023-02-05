@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Henrique Gambalonga 🖐️
+## Olá! Eu sou o Luiz Henrique Gambalonga :v:
 
 ## Sobre mim:
 
