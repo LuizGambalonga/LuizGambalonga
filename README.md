@@ -17,14 +17,15 @@ Sou desenvolvedor web apaixonado por tecnologias e soluções complexas e inovad
    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img align="center" alt="oracle" src="
   https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-  <img align="center" alt="angular" src="
+   <img align="center" alt="angular" src="
     https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="angular" src="
+    <img align="center" alt="bootstrap" src="
     https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"style="width:116px; height:28px" />
   </div>
 </div></br>
 
 ![Luiz Gambalonga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGambalonga&show_icons=true&theme=dracula&count_private=true)
+
 
  <br>
 
@@ -33,8 +34,3 @@ Sou desenvolvedor web apaixonado por tecnologias e soluções complexas e inovad
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-gambalonga-serafim)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gambalongaluizhenrique@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiz_gambalonga)
-
-
-
-
-  
