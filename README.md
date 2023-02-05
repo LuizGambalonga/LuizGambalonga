@@ -23,8 +23,6 @@ Sou Bacharel, graduado em Sistemas de Informação. Atualmente atuo como desenvo
 ![Luiz Gambalonga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGambalonga&show_icons=true&theme=dracula&count_private=true)
 
 
- <br>
-
  ## Formas de Contato
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-gambalonga-serafim)
