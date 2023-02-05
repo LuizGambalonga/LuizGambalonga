@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-Sou desenvolvedor web apaixonado por tecnologias e soluções complexas e inovadoras.
+Sou Bacharel, graduado em Sistemas de Informação. Atualmente atuo como desenvolvedor fullstack web, com paixão por tecnologias robustas e soluções inovadoras. Estou sempre buscando novos desafios e oportunidades para crescer e evoluir na minha carreira.
 
 ## Tecnologias e Ferramentas que eu uso no meu dia
 
