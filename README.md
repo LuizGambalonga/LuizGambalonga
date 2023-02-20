@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-Sou Bacharel, graduado em Sistemas de Informação. Atualmente atuo como desenvolvedor fullstack web, com paixão por tecnologias robustas e soluções inovadoras. Estou sempre buscando novos desafios e oportunidades para crescer e evoluir na minha carreira.
+Sou graduado em Sistemas de Informação. Atualmente atuo como desenvolvedor web fullstack , com paixão por tecnologias robustas e soluções inovadoras. Estou sempre buscando novos desafios e oportunidades para crescer e evoluir na minha carreira.
 
 ## Tecnologias e Ferramentas que eu uso no meu dia
 
@@ -27,5 +27,4 @@ Sou Bacharel, graduado em Sistemas de Informação. Atualmente atuo como desenvo
  ## Formas de Contato
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-gambalonga-serafim)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gambalongaluizhenrique@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiz_gambalonga)
