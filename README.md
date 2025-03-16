@@ -24,7 +24,6 @@ Sou Bacharel em Sistemas de Informação. Atualmente atuo como desenvolvedor web
    <img align="center" alt="redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGambalonga&show_icons=true&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Formas de Contato
